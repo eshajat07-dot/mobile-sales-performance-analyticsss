@@ -39,6 +39,3 @@ Guided by the formal requirements in `Mobile_Sales_Requirements.docx`, this anal
 3. **DAX Implementation:** Created complex measures for Year-over-Year (YoY) growth and Average Selling Price (ASP).
 4. **SQL Validation:** Verified all dashboard visuals against raw data using `Mobile_Sales_Queries.sql`.
 
----
-**Developed by:** Parag Taide  
-**Let's Connect:** https://www.linkedin.com/in/paragtaide/
